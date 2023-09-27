@@ -1,0 +1,11 @@
+[package]
+name = "blue_octopus"
+version = "0.1.0"
+edition = "2021"
+description = "A multi-funtional cli tool"
+repository = "https://github.com/sessionsdev/blue_octopus"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
